@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>org.earthly</groupId>
+    <artifactId>maven-archetype-mircoservice-monorepo</artifactId>
+    <version>1.0</version>
+    <name>Archetype - maven-archetype-mircoservice-monorepo</name>
+    <url>http://maven.apache.org</url>
+    <packaging>maven-archetype</packaging>
+    <build>
+        <extensions>
+            <extension>
+                <groupId>org.apache.maven.archetype</groupId>
+                <artifactId>archetype-packaging</artifactId>
+                <version>3.2.1</version>
+            </extension>
+        </extensions>
+    </build>
+</project>
