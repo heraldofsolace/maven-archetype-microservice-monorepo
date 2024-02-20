@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.earthly</groupId>
-    <artifactId>maven-archetype-mircoservice-monorepo</artifactId>
+    <artifactId>maven-archetype-microservice-monorepo</artifactId>
     <version>1.0</version>
-    <name>Archetype - maven-archetype-mircoservice-monorepo</name>
+    <name>Archetype - maven-archetype-microservice-monorepo</name>
     <url>http://maven.apache.org</url>
     <packaging>maven-archetype</packaging>
     <build>
